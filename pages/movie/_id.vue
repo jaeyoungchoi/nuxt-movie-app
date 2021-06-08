@@ -97,9 +97,6 @@ export default {
       'theMovie'
     ])
   },
-  created() {
-    
-  },
   methods: {
     requestDiffSizeImage(url, size = 700) {
       // 잘못된 URL(Poster)인 경우.
